@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bold",
+    "tagName": "b"
+  },
+  {
+    "name": "italic",
+    "tagName": "i"
+  },
+  {
+    "name": "underline",
+    "tagName": "u"
+  }
+]
